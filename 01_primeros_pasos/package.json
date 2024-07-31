@@ -1,0 +1,16 @@
+{
+  "name": "ritchie_typescript_week3",
+  "version": "1.0.0",
+  "main": "04_estruct_iteracion.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "typescript": "^5.5.4"
+  }
+}
